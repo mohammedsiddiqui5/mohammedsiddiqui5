@@ -19,5 +19,9 @@ Skills and Traits:
 
 
 Good at SQL, SpreadSheet, statistical Programming Language.
+
+
 Efficient hard worker, Reliable and collabortion.
+
+
 Expert in data analysis and decision making.
