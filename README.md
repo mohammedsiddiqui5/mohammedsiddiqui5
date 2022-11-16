@@ -1,7 +1,7 @@
 Hi! I'm Siddiqui 👋
 I'm from india, a student and even employer.
 
-[<img src='https://mir-s3-cdn-cf.behance.net/projects/202/a41bd864961739.Y3JvcCw5OTksNzgyLDAsMA.jpg' height='400'>]
+[<img src='https://mir-s3-cdn-cf.behance.net/projects/202/a41bd864961739.Y3JvcCw5OTksNzgyLDAsMA.jpg' height='350'>]
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him/bro
 - ⚡ Fun fact: ...i am a quick decision maker..
 -->
+
+Skills and Traits
