@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**mohammedsiddiqui5/mohammedsiddiqui5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Siddiqui 👋
+I'm from india, a student and even employer.
+[<img src='https://mir-s3-cdn-cf.behance.net/projects/202/a41bd864961739.Y3JvcCw5OTksNzgyLDAsMA.jpg' height='40'>]
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Assignment
+- 🌱 I’m currently learning ... data analytics in business decision making 
+- 👯 I’m looking to collaborate on ...creating content
+- 🤔 I’m looking for help with ... business decision making
+- 💬 Ask me about ...anything
+- 📫 How to reach me: ...through my email id
+- 😄 Pronouns: ... he/him/bro
+- ⚡ Fun fact: ...i am a quick decision maker..
 -->
