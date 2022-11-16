@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...i am a quick decision maker..
 -->
 
-Skills and Traits
+Skills and Traits:
+Good at SQL, SpreadSheet, statistical Programming Language.
+Efficient hard worker, Reliable and collabortion.
+Expert in data analysis and decision making.
