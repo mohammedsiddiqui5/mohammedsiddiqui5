@@ -1,6 +1,7 @@
 Hi! I'm Siddiqui 👋
 I'm from india, a student and even employer.
-[<img src='https://mir-s3-cdn-cf.behance.net/projects/202/a41bd864961739.Y3JvcCw5OTksNzgyLDAsMA.jpg' height='500'>]
+
+[<img src='https://mir-s3-cdn-cf.behance.net/projects/202/a41bd864961739.Y3JvcCw5OTksNzgyLDAsMA.jpg' height='400'>]
 
 Here are some ideas to get you started:
 
