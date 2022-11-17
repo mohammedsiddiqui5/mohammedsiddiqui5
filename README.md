@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...i am a quick decision maker..
 -->
 
+
+[<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhatsupusana.com%2F2013%2F03%2Ftraits-vs-skills-do-you-know-the-difference%2F&psig=AOvVaw1hc5XPSDJtH_c340PoftPI&ust=1668745684956000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKiFrbKwtPsCFQAAAAAdAAAAABAE'>]
+
+
 SKILLS AND TRAITS:
 
 
