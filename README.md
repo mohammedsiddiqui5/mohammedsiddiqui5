@@ -16,32 +16,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...i am a quick decision maker..
 -->
 
-Skills and Traits:
+SKILLS AND TRAITS:
 
 
 
 SQL, Python, R, Excel
 
+
 Data Visualization : Tableau ( Basic Data Comprehension, Math and Statistical Analysis,
+                     
                      Understanding of Data concepts, Dashboard building ), PowerBI,
+                    
                      Microsoft Excel ( Pivot Table)
+                     
 
 Statistical Programming Languages : R, Python
+
 
 Data Cleaning
 
 
 Database : SQL Server, MySQL
+
+
 Statistics : Clustering, Time Series, Panel Data, Logit and Poisson regression, Decision tree, Hypothesis testing.
+
 
 Soft Skills : Excellent Verbal and Written Communication Skills with Critical thinking
 
-Education:
-Currently pursuing,
 
-Data Analytics in Business Decision Making
-(Graduate Certificate)
+Education:
+
+
+Currently pursuing,
+Data Analytics in Business Decision Making(Graduate Certificate)
 Durham College, Oshawa, Canada
+
+
 Bachelors in Computer Science and Engineering
 Osmania University, Hyderabad
 
