@@ -45,7 +45,7 @@ Statistics : Clustering, Time Series, Panel Data, Logit and Poisson regression, 
 Soft Skills : Excellent Verbal and Written Communication Skills with Critical thinking
 
 
-Education:
+EDUCATION:
 
 
 Currently pursuing,
@@ -53,7 +53,7 @@ Data Analytics in Business Decision Making(Graduate Certificate)
 Durham College, Oshawa, Canada
 
 
-Bachelors in Computer Science and Engineering
+Bachelors in Computer Science and Engineering,
 Osmania University, Hyderabad
 
 
