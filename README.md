@@ -50,8 +50,6 @@ Here are some ideas to get you started:
 
 [<img src='https://seeklogo.com/images/E/education-logo-F85933BCAF-seeklogo.com.png' height='350'>]
 
-EDUCATION:
-
 
 ---> Currently pursuing,
 Data Analytics in Business Decision Making(Graduate Certificate)
@@ -61,6 +59,12 @@ Durham College, Oshawa, Canada
 ---> Bachelors in Computer Science and Engineering,
 Osmania University, Hyderabad
 
+
+CASE STUDY
+[<img src='https://cdn.statcdn.com/Statistic/235000/236607-blank-754.png' height='350'>
+
+
+As we know Samsung is the largest company in the world, which provides various electronic equipment to fullfill the need of the people in this world..
 
 
 
