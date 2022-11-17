@@ -22,44 +22,43 @@ Here are some ideas to get you started:
 [<img src='https://whatsupusana.com/wp-content/uploads/2013/03/USANA-Skills-Personal-Development.jpg' height='350'>]
 
 
-SKILLS AND TRAITS:
+
+1.SQL, Python, R, Excel
 
 
-
-SQL, Python, R, Excel
-
-
-Data Visualization : Tableau ( Basic Data Comprehension, Math and Statistical Analysis,
+2.Data Visualization : Tableau ( Basic Data Comprehension, Math and Statistical Analysis,
                      
                      Understanding of Data concepts, Dashboard building ), PowerBI,
                     
                      Microsoft Excel ( Pivot Table)
                      
 
-Statistical Programming Languages : R, Python
+3.Statistical Programming Languages : R, Python
 
 
-Data Cleaning
+4.Data Cleaning
 
 
-Database : SQL Server, MySQL
+5.Database : SQL Server, MySQL
 
 
-Statistics : Clustering, Time Series, Panel Data, Logit and Poisson regression, Decision tree, Hypothesis testing.
+6.Statistics : Clustering, Time Series, Panel Data, Logit and Poisson regression, Decision tree, Hypothesis testing.
 
 
-Soft Skills : Excellent Verbal and Written Communication Skills with Critical thinking
+7.Soft Skills : Excellent Verbal and Written Communication Skills with Critical thinking
 
+
+[<img src='https://seeklogo.com/images/E/education-logo-F85933BCAF-seeklogo.com.png' height='350'>]
 
 EDUCATION:
 
 
-Currently pursuing,
+---> Currently pursuing,
 Data Analytics in Business Decision Making(Graduate Certificate)
 Durham College, Oshawa, Canada
 
 
-Bachelors in Computer Science and Engineering,
+---> Bachelors in Computer Science and Engineering,
 Osmania University, Hyderabad
 
 
