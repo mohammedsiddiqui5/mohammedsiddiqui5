@@ -1,6 +1,7 @@
 Hi! I'm Siddiqui 👋
-I'm from india, a student and even employer.
-
+I'm from india, I am a international student studying Data analytics in business decision making in Durham college.
+Highly educated, possessing Bachelors in Computer Science and
+Engineering.
 [<img src='https://mir-s3-cdn-cf.behance.net/projects/202/a41bd864961739.Y3JvcCw5OTksNzgyLDAsMA.jpg' height='350'>]
 
 Here are some ideas to get you started:
@@ -18,10 +19,35 @@ Here are some ideas to get you started:
 Skills and Traits:
 
 
-Good at SQL, SpreadSheet, statistical Programming Language.
+
+SQL, Python, R, Excel
+
+Data Visualization : Tableau ( Basic Data Comprehension, Math and Statistical Analysis,
+                     Understanding of Data concepts, Dashboard building ), PowerBI,
+                     Microsoft Excel ( Pivot Table)
+
+Statistical Programming Languages : R, Python
+
+Data Cleaning
 
 
-Efficient hard worker, Reliable and collabortion.
+Database : SQL Server, MySQL
+Statistics : Clustering, Time Series, Panel Data, Logit and Poisson regression, Decision tree, Hypothesis testing.
+
+Soft Skills : Excellent Verbal and Written Communication Skills with Critical thinking
+
+Education:
+Currently pursuing,
+
+Data Analytics in Business Decision Making
+(Graduate Certificate)
+Durham College, Oshawa, Canada
+Bachelors in Computer Science and Engineering
+Osmania University, Hyderabad
 
 
-Expert in data analysis and decision making.
+
+
+
+
+
