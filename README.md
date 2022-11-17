@@ -60,11 +60,30 @@ Durham College, Oshawa, Canada
 Osmania University, Hyderabad
 
 
-CASE STUDY
+
+
+CASE STUDY(SAMSUNG MOBILE)
+
+
 [<img src='https://cdn.statcdn.com/Statistic/235000/236607-blank-754.png' height='350'>
 
 
 As we know Samsung is the largest company in the world, which provides various electronic equipment to fullfill the need of the people in this world..
+
+It mainly manufacture and focus on Mobile Gadgets..
+
+The above analysis shows the progress of the company..
+
+
+IMPROVEMENTS:
+
+* Increase in Design Model
+* Thorough analysis on Additional Features.. 
+* Focus on Updated Technology
+* Work on Customer Feedback
+* Have more Variety
+* 
+* 
 
 
 
