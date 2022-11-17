@@ -2,7 +2,7 @@ Hi! I'm Siddiqui 👋
 I'm from india, I am a international student studying Data analytics in business decision making in Durham college.
 Highly educated, possessing Bachelors in Computer Science and
 Engineering.
-[<img src='https://mir-s3-cdn-cf.behance.net/projects/202/a41bd864961739.Y3JvcCw5OTksNzgyLDAsMA.jpg' height='350'>]
+[<img src='https://mir-s3-cdn-cf.behance.net/projects/202/a41bd864961739.Y3JvcCw5OTksNzgyLDAsMA.jpg' height='350' width='300'>]
 
 Here are some ideas to get you started:
 
