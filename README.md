@@ -82,11 +82,10 @@ IMPROVEMENTS:
 * Focus on Updated Technology
 * Work on Customer Feedback
 * Have more Variety
-* 
-* 
 
 
 
+[<img src='https://images.indianexpress.com/2022/08/Samsung-Galaxy-Fold-4-Flip-4-launch-10082022.jpg' height='350'>] 
 
 
 
