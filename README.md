@@ -92,3 +92,9 @@ IMPROVEMENTS:
 
 
 [<img src='https://cdn.neowin.com/news/images/uploaded/samsung-technology-roadmap.jpg' height='350'>]
+
+
+
+
+
+[<img src='https://hi-static.z-dn.net/files/dc7/d52cf4bc18ff171d3f6c6258151b5fdb.jpg' height='350'>]
